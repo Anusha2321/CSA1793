@@ -24,3 +24,7 @@ graph = {
 }
 colors = ['Red', 'Green', 'Blue']
 print(map_coloring(graph, colors))
+
+
+#output
+{'A': 'Red', 'B': 'Green', 'C': 'Blue', 'D': 'Red'}
