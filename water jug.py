@@ -11,3 +11,15 @@ def water_jug_problem(jug1, jug2, target):
 
 # Test
 for step in water_jug_problem(5, 3, 4): print(step)
+
+#output
+Jug1: 0L, Jug2: 0L
+Jug1: 4L, Jug2: 0L
+Jug1: 0L, Jug2: 3L
+Jug1: 4L, Jug2: 3L
+Jug1: 1L, Jug2: 3L
+Jug1: 3L, Jug2: 0L
+Jug1: 1L, Jug2: 0L
+Jug1: 3L, Jug2: 3L
+Jug1: 0L, Jug2: 1L
+Jug1: 4L, Jug2: 2L
