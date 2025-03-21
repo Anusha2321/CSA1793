@@ -8,3 +8,9 @@ while True:
             print('Result:', ops[c])
         except: print('Invalid input')
     else: print('Invalid choice')
+
+#output
+Choose: 1-Add, 2-Sub, 3-Mul, 4-Div, 5-Exit: 1
+First: 3
+Second: 4
+Result: 7.0
