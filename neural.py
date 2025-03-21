@@ -23,3 +23,9 @@ for _ in range(10000):
     w1 += X.T.dot(l1_delta)
 
 print(sigmoid(np.dot(sigmoid(np.dot(X, w1)), w2)))  # Output after training
+
+#output
+[[0.03295058]
+ [0.9305278 ]
+ [0.93052773]
+ [0.09263431]]
