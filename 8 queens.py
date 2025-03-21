@@ -13,3 +13,13 @@ def solve8Queens():
     if solve(board, 0): print('\n'.join(' '.join('Q' if i == row else '.' for i in range(8)) for row in board))
     else: print("No solution.")
 solve8Queens()
+
+#output
+Q . . . . . . .
+. . . . Q . . .
+. . . . . . . Q
+. . . . . Q . .
+. . Q . . . . .
+. . . . . . Q .
+. Q . . . . . .
+. . . Q . . . .
