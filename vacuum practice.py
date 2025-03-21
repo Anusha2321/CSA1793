@@ -9,5 +9,10 @@ def vacuum(grid):
 
 vacuum([[1, 0, 1], [0, 1, 0], [1, 0, 0]])
 
+#output
+Cleaning (0, 0)
+Cleaning (0, 2)
+Cleaning (1, 1)
+Cleaning (2, 0)
               
         
