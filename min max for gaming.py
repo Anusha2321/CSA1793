@@ -30,3 +30,6 @@ def check_winner(board):
 
 board = ["X", "O", "X", " ", "O", " ", " ", "X", " "]
 print(minimax(board, 0, True))
+
+#output
+1
