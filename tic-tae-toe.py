@@ -10,3 +10,29 @@ def tic_tac_toe():
     print("\n".join(" ".join(r) for r in B)), print("It's a draw!")
 
 tic_tac_toe()
+
+#output
+- - -
+- - -
+- - -
+Player X, enter row and col: 1 1
+- - -
+- X -
+- - -
+Player O, enter row and col: 1 0
+- - -
+O X -
+- - -
+Player X, enter row and col: 0 2
+- - X
+O X -
+- - -
+Player O, enter row and col: 2 1
+- - X
+O X -
+- O -
+Player X, enter row and col: 2 0
+- - X
+O X -
+X O -
+Player X wins!
