@@ -7,3 +7,6 @@ def cryptarithmetic():
             return f"Solution Found:\nS={S}, E={E}, N={N}, D={D}, M={M}, O={O}, R={R}, Y={Y}\n\n{SEND} + {MORE} = {MONEY}"
 
 print(cryptarithmetic() or "No solution found.")
+
+#output
+SEND=1023,MORE=4560==MONEY=45207
