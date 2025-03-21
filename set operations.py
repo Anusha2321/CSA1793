@@ -1,8 +1,6 @@
-s1, s2 = {1, 2, 3}, {3, 4, 5}
-print('Union:', s1 | s2)
-print('Intersection:', s1 & s2)
-print('Difference:', s1 - s2)
-print('Symmetric Difference:', s1 ^ s2)
-
-
-
+a={1,2,3,4}
+b={3,4,5,6}
+print("union:",a|b)
+print("intersection:",a&b)
+print("difference(a-b):",a-b)
+print("symmetric:",a^b)
