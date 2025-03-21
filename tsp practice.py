@@ -17,3 +17,6 @@ graph = {
 
 print(tsp(graph, 0))
 
+#output
+((0, 1, 3, 2), 80)
+
