@@ -16,3 +16,6 @@ if path:
         print(f"Missionaries: {step[0]}, Cannibals: {step[1]}, Boat: {'Left' if step[2] == 0 else 'Right'}")
 else: 
     print("No solution found!")
+
+#output
+[(3, 3, 2), (3, 1, 0), (1, 1, 1), (0, 0, 0)]
